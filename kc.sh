@@ -60,7 +60,7 @@ elif [ $nem = 3 ]; then
         echo $me"Done"
 elif [ $nem = 4 ];
 then
-        exit
+        login
 else
         echo "input salah..."
 fi
