@@ -13,8 +13,8 @@ echo $me"Konfirmasi bahwa anda tidak akan merecode sc ini"
 sleep 3
 clear
 echo "LOGIN"
-read $me"Username :" nama
-read $cy"Password :" pass
+read -p $me"Username :" nama
+
 echo "Tunggu sebentar lagi proses..."
 echo "#######[User]#######"
 echo "  username : $nama"
