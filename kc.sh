@@ -54,6 +54,7 @@ then
 elif [ $nem = 3 ]; then
         pkg install python
         git clone https://github.com/Sxp-ID/Kang-Spam
+        clear
         echo $i"salin token nya"
         echo $me"hGQmHJQ6ANdmuo8NY1dKYtmvSyePqjX1dV7Ur5j5jTlZ6lG9x"
         echo $pur"jika sudah kalian salin kalian ketikan $me cd Kang-Spam $pur jika sudah ketikan lagi $me sh instal.sh"
